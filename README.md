@@ -1,4 +1,4 @@
-# Keypoint-Description-and-Matching
+# Keypoint Extraction and Matching
 Advance computer vision course project (Fall 2020)
 
 Compute the Harris corner detector
